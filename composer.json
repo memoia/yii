@@ -1,0 +1,7 @@
+{
+    "name": "yiisoft/yii",
+    "description": "Yii Framework",
+    "require": {
+        "php": ">=5.1.0"
+    }
+}
